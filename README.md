@@ -1,1 +1,1 @@
-# .github
+# Home of the memelords
